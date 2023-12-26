@@ -1,5 +1,6 @@
 function minDate(dates) {
   //write you code here
+	return dates.toString(); 
 }
 
 // Do not change the code
